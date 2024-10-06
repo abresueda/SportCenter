@@ -47,3 +47,6 @@ cd sport-center-website
 
 - Herhangi bir sorunuz veya öneriniz varsa, bana abre.sueda@gmail.com üzerinden ulaşabilirsiniz.
 
+## Netfliy Proje URL
+
+- https://super-souffle-90e60c.netlify.app
